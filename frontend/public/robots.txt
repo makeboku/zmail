@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# 禁止抓取API路径
+Disallow: /api/
+
+# 站点地图
+Sitemap: https://mail.mdzz.uk/sitemap.xml 
